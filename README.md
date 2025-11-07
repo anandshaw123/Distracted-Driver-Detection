@@ -1,13 +1,6 @@
-Distracted Driver Detection
-
-
-
-
 <div class="cell markdown">
 
-## Distracted-Driver-Detection
-
-<img src="./supp/front_page.png" style="width:250;height:250;">
+## Distracted Driver Detection
 
 </div>
 
